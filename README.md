@@ -1,5 +1,7 @@
 ## SSL Server Demo
-An SSL enabled client project and server project in dotnet/C#. Built on top of [NetCoreServer](https://github.com/chronoxor/NetCoreServer) and using [BetterConsoleUITemplate](https://github.com/Ink230/BetterConsoleUITemplate). Server certification, no client certification.
+An SSL enabled client project and server project in dotnet/C#. Server certification, no client certification.
+
+Built on top of [NetCoreServer](https://github.com/chronoxor/NetCoreServer) and using [BetterConsoleUITemplate](https://github.com/Ink230/BetterConsoleUITemplate).
 
 ## Windows / Linux / Dev IDE
 - Configure Environment Variables as structured in the AppSettings folder, on your O/S or desired means
