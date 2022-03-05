@@ -36,7 +36,7 @@ Built on top of [NetCoreServer](https://github.com/chronoxor/NetCoreServer) and 
 ## localhost
 - Should work on Windows or Linux (file perms needed on Linux potentially)
 
-## Development Testing on Ubuntu 18.07 Remote Server Setup
+## Development Testing on Ubuntu 18.04 Remote Server Setup
 - Setup ufw
 - Run
 
