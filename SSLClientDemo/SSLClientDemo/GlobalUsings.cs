@@ -1,0 +1,11 @@
+﻿global using App;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Hosting;
+global using Serilog;
+global using NetCoreServer;
+global using System.Net;
+global using System.Net.Sockets;
+global using System.Text;
+global using System.Security.Authentication;
+global using System.Security.Cryptography.X509Certificates;
